@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import { profile } from "../data/profile";
 
-export default function Hero() {
+export default function hero() {
   return (
     <section
       id="hero"
