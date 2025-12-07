@@ -1,6 +1,6 @@
 import ScrollProgress from "./components/ScrollProgress";
 import MainLayout from "./layouts/MainLayout";
-import hero from "./sections/hero";
+import Hero from "./sections/hero.jsx";
 import About from "./sections/About";
 import Skills from "./sections/Skills";
 import Projects from "./sections/Projects";
